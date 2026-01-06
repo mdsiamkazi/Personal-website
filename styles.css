@@ -206,3 +206,122 @@ nav h2{
     line-height: 28px;
 
 }
+.resume{
+    margin: 130px auto 0 auto;
+    width: 71%;
+    text-align: center;
+
+}
+.resume .h2{
+    margin-bottom: 113px;
+}
+.edu-card-container{
+    display: flex;
+    justify-content: space-between;
+    gap: 24px;
+    text-align: left;
+}
+.edu-container{
+    display: flex;
+    justify-content: space-between;
+    gap: 24px;
+}
+.edu-card-con{
+    text-align: left;
+}
+.edu-h2{
+   font-size: 30px;
+   font-weight: bold; 
+   margin-bottom: 30px;
+}
+.edu-card{
+    padding: 0 47 30 0;
+    border-bottom: 1px solid #D1D1D1;
+
+}
+.edu-card h2{
+    font-size: 25px;
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+.caption{
+    font-size: 20px;
+    color: #757575;
+    line-height: auto;
+    margin-bottom: 20px;
+}
+.edu-p{
+    color: #757575;
+    font-size: 16px;
+    line-height: 28px;
+    margin-bottom: 47px;
+}
+.btnn{
+    display: block;
+    
+    margin: 50px auto 113px auto;
+}
+footer{
+    padding: 130px;
+    width: 100%;
+    background-color: #FFF8F3;
+}
+.footer-div{
+    width: 71%;
+    margin-left: auto;
+    margin-right: auto;
+    display: flex;
+    gap: 117px;
+}
+.footer-left h1{
+    font-size: 35px;
+    font-weight: bold;
+    margin-bottom:20px ;
+}
+.footer-left p{
+    font-size: 16px;
+    color: #757575;
+    margin-bottom: 30px;
+}
+.icon{
+   
+    
+
+}
+.icon img{
+    height: 24px;
+    margin-right: 24px;
+
+}
+.footer-right h2{
+    font-size: 35px;
+    font-weight: bold;
+    margin-bottom:28px ;
+
+
+}
+.textt{
+    margin-bottom: 24px;
+    width: 461px;
+
+    padding-top: 18px;
+    padding-bottom: 18px;
+    padding-left: 30px;
+    box-sizing: border-box;
+    font-size: 16px;
+    border: none;
+    display: block;
+    width: 100%;
+    
+}
+textarea{
+    width: 461px;
+    height: 180px;
+    font-size: 16px;
+    margin-bottom: 24px;
+    color: #757575;
+    border: none;
+    padding-top: 18px ;
+    padding-left: 30px;
+     resize: none;
+}
